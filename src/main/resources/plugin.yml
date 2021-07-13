@@ -1,0 +1,8 @@
+name: ParticleView
+version: ${project.version}
+main: me.mical.particleview.ParticleView
+api-version: 1.17
+authors: [ Mical ]
+commands:
+  particleview:
+    usage: /particleview help
